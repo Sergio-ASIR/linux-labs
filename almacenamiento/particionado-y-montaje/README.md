@@ -19,7 +19,7 @@ Configurar un disco secundario en Linux mediante una tabla de particiones MBR, c
 
 Se verifica la presencia del nuevo disco utilizando `lsblk`.
 
-![Disco detectado](01%20-%20Salida%20Terminal%20lsblk%20sdb%20limpio.png)
+![Disco detectado](01-lsblk-disco-limpio.png)
 
 Se identifica el disco `/dev/sdb` como dispositivo disponible para la creación de particiones.
 
